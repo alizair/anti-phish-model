@@ -1,0 +1,4 @@
+Link: https://figshare.com/articles/dataset/Seven_Phishing_Email_Datasets/25432108
+
+Citation:
+Curated datasets and feature analysis for phishing email detection with machine learning,” in 3rd IEEE International Conference on Computing and Machine Intelligence (ICMI), 2024, pp. 1–7.
