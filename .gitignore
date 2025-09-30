@@ -6,3 +6,6 @@ datasets/Ling.csv
 datasets/TREC_07.csv
 datasets/TREC_05.csv
 datasets/TREC_06.csv
+Models/split_dataset/test_split.csv
+Models/split_dataset/train_split.csv
+Models/split_dataset/val_split.csv
