@@ -2,3 +2,23 @@ Link: https://figshare.com/articles/dataset/Seven_Phishing_Email_Datasets/254321
 
 Citation:
 Curated datasets and feature analysis for phishing email detection with machine learning,” in 3rd IEEE International Conference on Computing and Machine Intelligence (ICMI), 2024, pp. 1–7.
+
+
+Link: https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset
+
+Citation: 
+Al-Subaiey, A., Al-Thani, M., Alam, N. A., Antora, K. F., Khandakar, A., & Zaman, S. A. U. (2024, May 19). Novel Interpretable and Robust Web-based AI Platform for Phishing Email Detection. ArXiv.org. https://arxiv.org/abs/2405.11619
+
+
+Link: https://www.kaggle.com/datasets/francescogreco97/human-llm-generated-phishing-legitimate-emails
+
+Citation: 
+"David versus Goliath: Can Machine Learning Detect LLM-Generated Text? A Case Study in the Detection of Phishing Emails" (2024) F. Greco, G. Desolda, A. Esposito, A. Carelli.
+
+
+Link: https://www.kaggle.com/datasets/ahmadtijjani/phishing-urgency-authority-persuasion
+No specific citation request.
+
+
+Link: https://www.kaggle.com/datasets/charlottehall/phishing-email-data-by-type
+No specific citation request.
