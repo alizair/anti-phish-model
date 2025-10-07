@@ -9,3 +9,12 @@ datasets/TREC_06.csv
 Models/split_dataset/test_split.csv
 Models/split_dataset/train_split.csv
 Models/split_dataset/val_split.csv
+Models/SVM/.jupyter/desktop-workspaces/default-37a8.jupyterlab-workspace
+Models/SVM/.ipynb_checkpoints/svm_comp_study-checkpoint.ipynb
+Models/SVM/vectorizations/tfidf_v1/X1_test_tfidf.npz
+Models/SVM/vectorizations/tfidf_v1/X1_train_tfidf.npz
+Models/SVM/vectorizations/tfidf_v1/X1_val_tfidf.npz
+notebooks/.jupyter/desktop-workspaces/default-37a8.jupyterlab-workspace
+notebooks/.jupyter/desktop-workspaces/default-37a8.jupyterlab-workspace
+notebooks/.jupyter/desktop-workspaces/default-37a8.jupyterlab-workspace
+notebooks/.jupyter/desktop-workspaces/default-37a8.jupyterlab-workspace
