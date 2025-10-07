@@ -1,0 +1,9 @@
+sbert v1 uses the higher model: (paraphrase-mpnet-base-v2) , which can be better but its so dense and can take ages to train, accurate but heavy.
+
+sbert v2 will use a smaller model: model =('all-MiniLM-L6-v2') lightweight, less accurate.
+
+sbert v3 will use a model in between, faster than the first, more accurate than the second. (paraphrase-distilroberta-base-v2)
+
+
+------
+tfidf v1: we have the subject and body separate, subject 10k and body 15k features, with 
