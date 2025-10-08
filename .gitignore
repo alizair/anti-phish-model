@@ -39,3 +39,19 @@ Models/SVM/vectorizations/sbert_v3/y_val_sbert.npy
 Models/SVM/vectorizations/tfidf_v1/y1_test_tfidf.npy
 Models/SVM/vectorizations/tfidf_v1/y1_train_tfidf.npy
 Models/SVM/vectorizations/tfidf_v1/y1_val_tfidf.npy
+Models/SVM/.ipynb_checkpoints/Vectorization_code-checkpoint.ipynb
+Models/split_dataset/.ipynb_checkpoints/creating the split dataset-checkpoint.ipynb
+Models/split_dataset/.jupyter/desktop-workspaces/default-37a8.jupyterlab-workspace
+Models/SVM/vectorizations/sbert_v4/X_test_sbert.npy
+Models/SVM/vectorizations/sbert_v4/X_train_sbert.npy
+Models/SVM/vectorizations/sbert_v4/X_val_sbert.npy
+Models/SVM/vectorizations/sbert_v4/y_train_sbert.npy
+Models/SVM/vectorizations/tfidf_v2/X_test_tfidf.npz
+Models/SVM/vectorizations/tfidf_v2/X_val_tfidf.npz
+Models/SVM/vectorizations/tfidf_v2/X_train_tfidf.npz
+Models/SVM/vectorizations/tfidf_v2/y_train_tfidf.npy
+Models/SVM/vectorizations/tfidf_v2/y_val_tfidf.npy
+Models/SVM/vectorizations/tfidf_v2/y_test_tfidf.npy
+Models/SVM/vectorizations/sbert_v4/y_val_sbert.npy
+Models/SVM/vectorizations/sbert_v4/y_test_sbert.npy
+Models/SVM/vectorizations/.jupyter/desktop-workspaces/default-37a8.jupyterlab-workspace

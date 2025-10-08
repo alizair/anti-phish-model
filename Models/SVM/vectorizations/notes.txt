@@ -4,6 +4,9 @@ sbert v2 will use a smaller model: model =('all-MiniLM-L6-v2') lightweight, less
 
 sbert v3 will use a model in between, faster than the first, more accurate than the second. (paraphrase-distilroberta-base-v2)
 
+sbert v4 (distiluse-base-multilingual-cased-v2) good for multi language, faster than v1, higher accuracy than v2
+
 
 ------
 tfidf v1: we have the subject and body separate, subject 10k and body 15k features, with 
+tfidf v2: combined subject and body, to reduce duplicate words in both.
