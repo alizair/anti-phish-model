@@ -1,0 +1,19 @@
+run_1: Linear SVM with TFIDF v1
+
+run_2: Linear SVM with an attempt to reducw overfitting by changing parameter C
+
+run_3: Linear SVM with TFIDF v2
+
+run_4: Linear SVM with SBERT v1
+
+run_5: Linear SVM with SBERT v2
+
+run_6: Linear SVM with SBERT v3
+ 
+run_7: Linear SVM with SBERT v4
+
+run_8: Linear SVM with SBERT v5
+
+run_9: rbf SVM (SVC) with SBERT v5
+
+run_10: rbf SVM (SVC) with SBERT v4
