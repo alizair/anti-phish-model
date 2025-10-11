@@ -61,3 +61,6 @@ Models/SVM/vectorizations/sbert_v5/y_test_sbert.npy
 Models/SVM/vectorizations/sbert_v5/X_val_sbert.npy
 Models/SVM/vectorizations/sbert_v5/X_train_sbert.npy
 Models/SVM/vectorizations/sbert_v5/X_test_sbert.npy
+Models/SVM/runs_models/run_10/svm_rbf_sbert_multilingual_v1.pkl
+Models/SVM/runs_models/run_9/svm_rbf_sbert_multilingual_light_v1.pkl
+Models/SVM/runs_models/run_9/svm_rbf_sbert_multilingual_light_v2.pkl
