@@ -55,3 +55,9 @@ Models/SVM/vectorizations/tfidf_v2/y_test_tfidf.npy
 Models/SVM/vectorizations/sbert_v4/y_val_sbert.npy
 Models/SVM/vectorizations/sbert_v4/y_test_sbert.npy
 Models/SVM/vectorizations/.jupyter/desktop-workspaces/default-37a8.jupyterlab-workspace
+Models/SVM/vectorizations/sbert_v5/y_val_sbert.npy
+Models/SVM/vectorizations/sbert_v5/y_train_sbert.npy
+Models/SVM/vectorizations/sbert_v5/y_test_sbert.npy
+Models/SVM/vectorizations/sbert_v5/X_val_sbert.npy
+Models/SVM/vectorizations/sbert_v5/X_train_sbert.npy
+Models/SVM/vectorizations/sbert_v5/X_test_sbert.npy

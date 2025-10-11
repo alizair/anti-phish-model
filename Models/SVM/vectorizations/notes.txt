@@ -6,6 +6,7 @@ sbert v3 will use a model in between, faster than the first, more accurate than 
 
 sbert v4 (distiluse-base-multilingual-cased-v2) good for multi language, faster than v1, higher accuracy than v2
 
+sbert v5 uses a lighter model of v4, called: paraphrase-multilingual-MiniLM-L12-v2
 
 ------
 tfidf v1: we have the subject and body separate, subject 10k and body 15k features, with 
